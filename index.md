@@ -3,7 +3,8 @@ title: Welcome to my github page!
 ---
 
 ## To Do:
-- stuff
-- [ ] a thing
-- [ ] or two
-- [ ] 
+- [ ] project 1
+  - [ ] with a thing
+  - [ ] or two
+- [ ] testing
+- [ ] configs
