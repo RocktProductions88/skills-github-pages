@@ -3,8 +3,13 @@ title: Welcome to my github page!
 ---
 
 ## To Do:
-- [ ] project 1
-  - [ ] with a thing
+- project 1
+- merges and pulls
+
+### Project 1
+  - [ ] a thing
   - [ ] or two
 - [ ] testing
-- [ ] configs
+
+### Project 2
+- [ ] configs and setup
